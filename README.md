@@ -5,7 +5,7 @@
 * Electronics Engineer Degree at Universidad de San Buenaventura Cali
 * Certified at MIT-Xpro Big Data course
 * Finished Artificial Inteligence Specialization At Universidad Autonoma De Occidente
-* Currently interested in ML-ops, Generative AI, Computer Vision and Cloud Computing
+* Currently interested in ML-ops, Generative AI,LLMs,Agents, Computer Vision and Cloud Computing
 * Finished Machine Learning Engineering for Production (MLOps) Deeplearning.ai specialization 
 
 
